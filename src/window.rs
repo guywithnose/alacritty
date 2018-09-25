@@ -30,7 +30,7 @@ use config::{Decorations, WindowConfig};
 /// Default text for the window's title bar, if not overriden.
 ///
 /// In X11, this the default value for the `WM_NAME` property.
-pub const DEFAULT_TITLE: &str = "Alacritty";
+pub const DEFAULT_TITLE: &str = "AlacrittyUnique";
 
 /// Default text for general window class, X11 specific.
 ///
